@@ -1,7 +1,5 @@
 # WIKI
-
-![](<.gitbook/assets/Banner background.png>)
-
+![](_assets/banner.png)
 ## hello
 
 ### some test
