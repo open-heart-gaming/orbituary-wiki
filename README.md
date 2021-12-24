@@ -1,9 +1,7 @@
----
-cover: .gitbook/assets/Cover 7.png
-coverY: 0
----
-
 # WIKI
+![](Banner%20background.png)
 
-![](<.gitbook/assets/Banner background.png>)
+test
 
+# test
+## hello
