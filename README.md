@@ -1,6 +1,11 @@
+---
+coverY: 0
+---
+
 # WIKI
-![](_assets/banner.png)
+
+![](broken-reference)
+
 ## hello
 
 ### some test
-
