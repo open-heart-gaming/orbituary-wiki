@@ -1,3 +1,9 @@
-# ORBITUARY
+---
+cover: .gitbook/assets/Cover 7.png
+coverY: 0
+---
 
-This is the home page
+# WIKI
+
+![](<.gitbook/assets/Banner background.png>)
+
