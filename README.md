@@ -1,8 +1,7 @@
 ---
-cover: .gitbook/assets/Cover 5.png
+cover: .gitbook/assets/Cover 7.png
 coverY: 0
 ---
 
 # WIKI
 
-![](<.gitbook/assets/Banner background 3.png>)
