@@ -3,9 +3,7 @@ description: Optional description here
 ---
 
 # WIKI
-
-![](\_assets/banner.png)
-
+![](_assets/banner.png)
 ## hello
 
 ### some test
