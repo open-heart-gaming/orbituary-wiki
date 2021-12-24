@@ -1,9 +1,7 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1637998450975-15193338ee93?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDAzNTUwNjE&ixlib=rb-1.2.1&q=85
+cover: .gitbook/assets/Cover 2.png
 coverY: 0
 ---
 
-# ORBITUARY
+# WIKI
 
-![](<.gitbook/assets/Banner 2.png>)

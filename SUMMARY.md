@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ORBITUARY](README.md)
+* [WIKI](README.md)
 
 ## MECHANICS
 
