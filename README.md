@@ -12,4 +12,4 @@ description: Optional description here
 
 
 
-inline image  ![](.gitbook/assets/u1.png)  is very cool. How is it done ?
+inline image  ![](_assets/u1.png)  is very cool. How is it done ?
