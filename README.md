@@ -10,7 +10,7 @@ description: Optional description here
 
 ### some test
 
-inline image  ![](_assets/u1.png)   is very cool. How is it done ?
+inline image  ![](_assets/inline.png)   is very cool. How is it done ?
 
 [test](mechanics/test.md)
 
