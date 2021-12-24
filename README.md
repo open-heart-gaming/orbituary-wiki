@@ -6,4 +6,4 @@ coverY: 0
 
 # ORBITUARY
 
-This is the home page
+![](<.gitbook/assets/Banner 2.png>)
